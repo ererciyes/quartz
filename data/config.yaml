@@ -25,10 +25,11 @@ description:
   My name is Ercan Erciyes, I explore all things in software and hardware, particularly in AI, privacy, and consumer technologies. Here, you can explore what's on my mind and what I want to say. Many pages are just notes that I create for my second brain.
 page_title:
   "Ercan's digital garden"
+
 links:
   - link_name: Twitter
     link: https://twitter.com/ererciyes
-  - link name: Monument
+  - link_name: Monument
     link: https://getmonument.com
   - link_name: RSS
     link: /RSS
