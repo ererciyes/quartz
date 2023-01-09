@@ -1,4 +1,4 @@
-baseURL = "https://exergs.net/"
+baseURL = "https://exrgs.net/"
 languageCode = "en-us"
 #googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
