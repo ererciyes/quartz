@@ -1,15 +1,19 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://exergs.net/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+#googleAnalytics = "G-XYFD95KB4J"
+pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
+pluralizeListTitles = false
+
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
-paginate = 10
+summaryLength = 30
+paginate = 30
 enableGitInfo = true
+rssLimit = 25
 
 [markup]
     [markup.tableOfContents]
@@ -27,6 +31,7 @@ enableGitInfo = true
         lineNos = true
         lineNumbersInTable = true
         style = "dracula"
+        tabWidth = 4
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
