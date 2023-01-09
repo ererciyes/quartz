@@ -1,4 +1,3 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:ererciyes/digitalGarden.git
-	ignore = untracked
