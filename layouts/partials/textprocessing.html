@@ -25,7 +25,6 @@
   {{end}}
 
   {{if not $incode}}
-
     <!-- remove link delimiters -->
     {{$inner := . | strings.TrimPrefix "!" | strings.TrimPrefix "[[" | strings.TrimSuffix "]]" }}
     <!-- split from alias -->

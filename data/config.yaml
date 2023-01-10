@@ -1,35 +1,21 @@
-
 name: Ercan Erciyes
 enableToc: true
 openToc: false
-
 enableLinkPreview: true
 enableFooter: true 
 enableLinkPreview: false
-
-# whether to render titles for code blocks
 enableCodeBlockTitle: true
-
-# whether to render copy buttons for code blocks
 enableCodeBlockCopy: true
-
-# whether to render callouts
 enableCallouts: true
-
-# whether to try to process Latex
 enableLatex: true
-
 enableGitHubEdit: false
-
 enableSPA: false
 enableContextualBacklinks: true
 enableRecentNotes: true 
-
 description:
   My name is Ercan Erciyes, I explore all things in software and hardware, particularly in AI, privacy, and consumer technologies. Here, you can explore what's on my mind and what I want to say. Many pages are just notes that I create for my second brain.
 page_title:
   "Ercan's digital garden"
-
 links:
   - link_name: Twitter
     link: https://twitter.com/ererciyes

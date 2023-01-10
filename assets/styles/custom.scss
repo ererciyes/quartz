@@ -141,26 +141,6 @@ footer {
   }
 }
 
-.page-end {
-  border-top: 1px solid var(--outlinegray);
-  background-color: #fafeff;
-  // padding: 4em 30vw;
-  padding: 25px 30vw;
-  h3 {
-    margin-block-start: 0px;
-  }
-
-  @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
-  }
-
-  #graph-container {
-    background: white;
-  }
-  .backlinks-container li {
-    background: white;
-  }
-}
 
 
 .singlePage {

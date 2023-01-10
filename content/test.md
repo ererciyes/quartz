@@ -1,11 +1,9 @@
 ---
-title: Setup
+title: SetupX
 tags:
   - setup
 weight: -5
 ---
-
-# test
 
 ## Making your own Quartz
 
@@ -35,8 +33,13 @@ git clone https://github.com/YOUR-USERNAME/quartz
 Great! Now you have everything you need to start editing and growing your digital garden. If you're ready to start writing content already, check out the recommended flow for editing notes in Quartz.
 
  > 
- > ✏️ Step 2: [Editing Notes in Quart](400%20Posts/_index.md)
+ > ✏️ Step 2: [Editing Notes in Quart](400-Posts/_index.md)
+ > [My Personal OS System](My%20Personal%20OS%20System.md)
+ > [\_index](400-Posts/_index.md)
+ > Having problems? Checkout our 
 
-[new link](/_index.md)
-[my](/_index.md)
-Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).[\_index](400%20Posts/_index.md)
+[My Personal OS System](400-Posts/My%20Personal%20OS%20System.md)
+[My Personal OS System](400-Posts/My%20Personal%20OS%20System.md)
+[OSOSS](400-Posts/My%20Personal%20OS%20System.md)
+
+[OSSSS](My%20Personal%20OS%20System.md)

@@ -15,20 +15,21 @@
     </header>
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{else}}<h1>{{ $fileName := path.Base .File.Path}}{{strings.TrimSuffix ".md" $fileName}}</h1>{{end}}
+
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
           {{ range (.GetTerms "tags") }}
-          <!--<li><a href="{{ .Permalink }}">
+          <li><a href="{{ .Permalink }}">
           {{if (eq $.Site.Language.Lang "en")}}
             {{ .LinkTitle | humanize }}
           {{else}}
             {{ .LinkTitle }}
           {{end}}
             </a>
-           </li>-->
+           </li>
           {{ end }}
       </ul>
       {{partial "yt.html" .}}
@@ -36,6 +37,6 @@
       {{partial "textprocessing.html" . }}
     </article>
     {{partial "footer.html" .}}
-</div>
+</div></div>
 </body>
 </html>
