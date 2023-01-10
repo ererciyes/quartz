@@ -6,6 +6,7 @@ relativeURLs = false
 disablePathToLower = true
 pluralizeListTitles = false
 
+
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",

@@ -1,9 +1,13 @@
 ---
+youtube: P1ww1IXRfTA
+tags: ~
 ---
 
 # My Personal OS System
 
 here's some thoughts
+
+Link: [\_index](_index.md)
 
 ==Highlight==
 
@@ -16,7 +20,7 @@ here's some thoughts
  > call out keywords: >info >note >abstract >todo >tip >success >question >warning >failure >danger >bug >example >quote
 
 ````note_comment
-Here's a code
+Here's a sample code
 ````
 
 Embed another file
@@ -44,7 +48,7 @@ Blockquotes
 Code `code here`
 
 ````
-`code here`
+code here
 ````
 
 Table

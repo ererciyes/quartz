@@ -4,27 +4,34 @@
 
 <body>
 {{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
+<div class="bodyContent">
+  <div class="singlePage logo-background">
+      <!-- Begin actual content -->
+      <header>
+        {{partial "logo.html" .}}
+        <div class="spacer"></div>
+        <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="6.5"/></g></svg>
+        {{partial "darkmode.html" .}}
+    </header>
     <article>
-      {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
+      {{if .Title}}<h1>{{ .Title }}</h1>{{else}}<h1>{{ $fileName := path.Base .File.Path}}{{strings.TrimSuffix ".md" $fileName}}</h1>{{end}}
       <p class="meta">
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
           {{ range (.GetTerms "tags") }}
-          <li><a href="{{ .Permalink }}">
+          <!--<li><a href="{{ .Permalink }}">
           {{if (eq $.Site.Language.Lang "en")}}
             {{ .LinkTitle | humanize }}
           {{else}}
             {{ .LinkTitle }}
           {{end}}
             </a>
-           </li>
+           </li>-->
           {{ end }}
       </ul>
+      {{partial "yt.html" .}}
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
     </article>
