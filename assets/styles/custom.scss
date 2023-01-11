@@ -84,7 +84,7 @@ header>svg {
   display: inline-block;
   border-radius: 8px;
   position: relative;
-  top: 12px;
+  //top: 12px;
 }
 
 .outreach {
@@ -165,7 +165,8 @@ footer {
 }
 
 article>.meta {
-  margin: -12px 0 1em;
+  margin: 10px 0 1em;
+  text-align: center;
 }
 
 .section-li {

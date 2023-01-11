@@ -1,5 +1,5 @@
 name: Ercan Erciyes
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableFooter: true 
@@ -23,3 +23,9 @@ links:
     link: https://getmonument.com
   - link_name: RSS
     link: /RSS
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true

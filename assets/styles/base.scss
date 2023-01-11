@@ -192,6 +192,13 @@ article {
   & p {
     overflow-wrap: anywhere;
   }
+  & img {
+    //all: unset;
+    width: revert-layer;
+    border-radius: 3px;
+    display:block;
+    margin:auto;
+  }
 }
 
 .tags {
@@ -373,6 +380,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
 
   & > h1 {
     font-size: 2em;
