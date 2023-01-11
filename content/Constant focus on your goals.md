@@ -1,6 +1,9 @@
 ---
 title: Focus on your goals
 lastmod: 2023-01-10
+tags:
+  - goals
+  - self motivation
 ---
 
 ![Chris Hatfield|175](https://m.media-amazon.com/images/I/51u29n+yvfL._SX331_BO1,204,203,200_.jpg)
