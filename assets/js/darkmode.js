@@ -6,7 +6,7 @@ if (currentTheme) {
   document.documentElement.setAttribute('saved-theme', currentTheme);
 }
 
-const switchTheme = (e) => {
+/*const switchTheme = (e) => {
   if (e.target.checked) {
     document.documentElement.setAttribute('saved-theme', 'dark')
     localStorage.setItem('theme', 'dark')
@@ -27,4 +27,4 @@ window.addEventListener('DOMContentLoaded', () => {
   if (currentTheme === 'dark') {
     toggleSwitch.checked = true
   }
-})
+})*/

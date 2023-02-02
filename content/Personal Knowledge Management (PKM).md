@@ -21,3 +21,5 @@ A PKM should become part of a routine and needs to be used whenever working with
 * and most importantly, Retrieving from personal memory.
 
 This is similar to how a computer works, where a set of commands, or an operating system, is needed to manage the data stored on its hard drive (our minds). Without this, we would be unable to locate and use information/knowledge.
+
+[Constant focus on your goals](Constant%20focus%20on%20your%20goals.md)
