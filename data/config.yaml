@@ -22,7 +22,7 @@ links:
   - link_name: Monument
     link: https://getmonument.com
   - link_name: RSS
-    link: /RSS
+    link: /index.xml
 markup:
   goldmark:
     parser:

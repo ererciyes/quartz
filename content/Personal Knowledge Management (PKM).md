@@ -6,7 +6,7 @@ tags:
   - information management
 ---
 
-![pkm|200](../Pasted%20image%2020230201170412.png)
+![pkm|200](../images/Pasted%20image%2020230201170412.png)
 
 As we read and access information in an increasingly digital world, a personal knowledge management (PKM) system is becoming increasingly important. Having a proper PKM system in place allows us to store, organize, and retrieve information when we need it. 
 
@@ -21,5 +21,3 @@ A PKM should become part of a routine and needs to be used whenever working with
 * and most importantly, Retrieving from personal memory.
 
 This is similar to how a computer works, where a set of commands, or an operating system, is needed to manage the data stored on its hard drive (our minds). Without this, we would be unable to locate and use information/knowledge.
-
-[Constant focus on your goals](Constant%20focus%20on%20your%20goals.md)
