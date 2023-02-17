@@ -8,4 +8,6 @@ I'm a passionate product guy who loves to create products and experiment with ne
 
 I live in the land of opportunities to chase my dreams and find true joy. I co-founded startups and in each of them, I learned valuable lessons and wore many different hats. This site is a simple place to share these learnings and resources through my journey. Hope it can help you get inspired!
 
-Start here to learn more about me, my work and deeper explanation about my "second brain" approach.
+Start here to learn more about me, my work and deeper explanation about my "second brain" approach. 
+
+Get in touch: ercan@exrgs.net
