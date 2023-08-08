@@ -1,4 +1,8 @@
 ---
+title: On defining objectives
+lastmod: 2023-02-17
+tags:
+  - goals
 ---
 
 The process is the set of actions taken in order to achieve a desired outcome. It is the journey, not the destination, that matters. Choosing the result over the process guarantees failure.
