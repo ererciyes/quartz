@@ -49,7 +49,7 @@ Get in touch: ercan@exrgs.net
 			<td><a href="./Personal-Knowledge-Management-PKM/">Personal Knowledge Management - PKM</a></td>
 	</tr>
 	<tr>
-			<td>a</td>
-			<td>b</td>
+			<td>Product Management</td>
+			<td>Analyzing the market and competitors<br/>Lean startup canvas<br/>Retention</td>
 	</tr>
 </table>
